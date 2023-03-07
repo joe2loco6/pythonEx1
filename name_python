@@ -1,0 +1,5 @@
+x=0
+name="python"
+
+for x in name
+  print(name[x])
